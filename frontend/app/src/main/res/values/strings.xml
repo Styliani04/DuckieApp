@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Duckie</string>
+    <string name="back_button">Πίσω</string>
+    <string name="logout_button">Αποσύνδεση</string>
+    <string-array name="food_categories">
+        <item>PIZZARIA</item>
+        <item>CAFETERIA</item>
+        <item>BURGERADIKO</item>
+        <item>SOUVLATZIDIKO</item>
+        <item>PAGWTATZIDIKO</item>
+        <item>ZAXAROPLASTEIO</item>
+        <item>STREETFOOD</item>
+        <item>ASIAN</item>
+        <item>VEGAN</item>
+    </string-array>
+
+</resources>

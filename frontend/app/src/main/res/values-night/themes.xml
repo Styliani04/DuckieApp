@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Duckie" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/custom_orange_dark</item>
+        <item name="colorPrimaryVariant">@color/custom_orange_darker</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/custom_orange_dark</item>
+        <item name="colorSecondaryVariant">@color/custom_orange_darker</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!-- Default button -->
+        <item name="buttonStyle">@style/OrangeButtonNight</item>
+        <!-- Default editTextColor-->
+        <item name="android:editTextColor">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+
+    </style>
+
+    <!-- Default button style -->
+    <style name="OrangeButtonNight" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/custom_orange_dark</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
