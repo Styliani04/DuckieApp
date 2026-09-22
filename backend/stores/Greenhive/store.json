@@ -1,0 +1,14 @@
+{
+  "name": "Greenhive",
+  "latitude": 37.99821723221284,
+  "longitude": 23.73701579113603,
+  "reviews": 12,
+  "rating": 4.8,
+  "logo": "Greenhive.png",
+  "category": "Vegan",
+  "products": [
+    {"name": "Vegan Burger", "price": 6.50, "stock": 15, "category": "main"},
+    {"name": "Sweet Potato Fries", "price": 4.00, "stock": 25, "category": "sides"},
+    {"name": "Kombucha", "price": 3.50, "stock": 30, "category": "drinks"}
+  ]
+}

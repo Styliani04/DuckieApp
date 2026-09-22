@@ -1,0 +1,13 @@
+{
+  "name": "Burgermania",
+  "latitude": 37.99143178524185,
+  "longitude": 23.732574924814234,
+  "reviews": 5,
+  "rating": 4.5,
+  "logo": "Burgermania.png",
+  "category": "Burgeradiko",
+  "products": [
+    {"name": "Chickenburger ", "price": 5.00, "stock": 10, "category": "BURGER"},
+    {"name": "Fries", "price": 3.00, "stock": 20, "category": "SIDES"}
+  ]
+}

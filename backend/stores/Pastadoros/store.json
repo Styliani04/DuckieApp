@@ -1,0 +1,14 @@
+{
+  "name": "Pastadoros",
+  "latitude": 38.048202138604694,
+  "longitude": 23.749103695135336,
+  "reviews": 18,
+  "rating": 4.4,
+  "logo": "Pastadoros.png",
+  "category": "Streetfood",
+  "products": [
+    {"name": "Spaghetti Carbonara", "price": 6.80, "stock": 25, "category": "main"},
+    {"name": "Penne Arrabbiata", "price": 6.50, "stock": 20, "category": "main"},
+    {"name": "Garlic Bread", "price": 3.00, "stock": 30, "category": "SIDES"}
+  ]
+}

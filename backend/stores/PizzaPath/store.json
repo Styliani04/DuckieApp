@@ -1,0 +1,15 @@
+{
+  "name": "PizzaPath",
+  "latitude": 37.990500,
+  "longitude": 23.736000,
+  "reviews": 24,
+  "rating": 4.3,
+  "logo": "PizzaPath.png",
+  "category": "Pizzaria",
+  "products": [
+    {"name": "Margherita", "price": 7.00, "stock": 20, "category": "main"},
+    {"name": "Pepperoni", "price": 7.80, "stock": 18, "category": "main"},
+    {"name": "Four Cheese", "price": 8.20, "stock": 15, "category": "main"},
+    {"name": "Soft Drink", "price": 1.80, "stock": 40, "category": "drinks"}
+  ]
+}

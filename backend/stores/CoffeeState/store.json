@@ -1,0 +1,15 @@
+{
+  "name": "CoffeState",
+  "latitude": 37.992700,
+  "longitude": 23.733200,
+  "reviews": 40,
+  "rating": 3.2,
+  "logo": "CoffeState.png",
+  "category": "Cafeteria",
+  "products": [
+    {"name": "Frappe", "price": 2.50, "stock": 50, "category": "drinks"},
+    {"name": "Freddo Espresso", "price": 2.80, "stock": 45, "category": "drinks"},
+    {"name": "Freddo Cappuccino", "price": 3.00, "stock": 40, "category": "drinks"},
+    {"name": "Bougatsa", "price": 2.50, "stock": 20, "category": "sides"}
+  ]
+}

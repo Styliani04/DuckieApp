@@ -1,0 +1,14 @@
+{
+  "name": "IndianCorner",
+  "latitude": 37.990500,
+  "longitude": 23.736000,
+  "reviews": 9,
+  "rating": 4.7,
+  "logo": "IndianCorner.png",
+  "category": "Asian",
+  "products": [
+    {"name": "Butter Chicken", "price": 12.50, "stock": 12, "category": "MAIN"},
+    {"name": "Lamb Biryani", "price": 14.00, "stock": 10, "category": "MAIN"},
+    {"name": "Naan", "price": 10.50, "stock": 25, "category": "SIDES"},
+  ]
+}

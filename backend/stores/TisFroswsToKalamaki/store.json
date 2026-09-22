@@ -1,0 +1,15 @@
+{
+  "name": "Tis Frosws to Kalamaki",
+  "latitude": 37.9966988687827,
+  "longitude": 23.738034152861175,
+  "reviews": 30,
+  "rating": 4.6,
+  "logo": "TisFroswsToKalamaki.png",
+  "category": "Souvlatzidiko",
+  "products": [
+    {"name": "Kalamaki Kotopoulo", "price": 2.20, "stock": 50, "category": "souvlaki"},
+    {"name": "Kalamaki Hirino", "price": 2.50, "stock": 40, "category": "souvlaki"},
+    {"name": "Pita Gyros", "price": 3.80, "stock": 35, "category": "wraps"},
+    {"name": "Patates Tiganites", "price": 2.50, "stock": 60, "category": "sides"}
+  ]
+}
